@@ -29,8 +29,6 @@
 <a href="https://www.hackerrank.com/itsamanyadav18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="itsamanyadav18" height="30" width="40" /></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=its_aman_yadav&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Tushar-gupta-git" width="700">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=its_aman_yadav&theme=jolly" width="700">
 
 
 <br>
