@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Strucures and Algorithms in C++**
 
-- 💬 Ask me about **Cyber Security, Cryptography, and Content Creation**
+- 💬 Ask me about **Cyber Security, Networking, Data Structures and Content Creation**
 
 - 📫 How to reach me **itsamanyadav18@gmail.com**
 
