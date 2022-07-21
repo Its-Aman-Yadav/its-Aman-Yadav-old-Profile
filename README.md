@@ -29,7 +29,7 @@
 <a href="https://www.hackerrank.com/itsamanyadav18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="itsamanyadav18" height="30" width="40" /></a>
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sudhanshu-Sharma-22&theme=jolly" width="700">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=its-aman-yadav&theme=jolly" alt="its-aman-yadav"width="700">
 
 
 <br>
